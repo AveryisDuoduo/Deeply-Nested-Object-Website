@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background: linear-gradient(to bottom, #010c44, pink, #010c44);
+    background-size: cover;
+    font-family: "Nunito", sans-serif;
+    color: white;
+    text-align: center; 
+}
+
+
+.nunito-normal {
+    font-weight: 400; 
+}

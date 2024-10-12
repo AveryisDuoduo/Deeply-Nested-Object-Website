@@ -1,0 +1,108 @@
+{
+    "title": "Avery as Systems",
+    "artist": "Avery (Duoduo Liu)",
+    "yearCreated": 2024,
+    "class": "Core Studio System",
+    "medium": "HTML, CSS, JavaScript",
+    "dimensions": {
+        "width": 1920,
+        "height": 1080,
+        "unit": "pixels"
+    },
+    "themes": ["Language", "Glitch-Art", "Errors", "Concrete-Poetry"],
+    "inspiration": "Error codes and connection between generating codes and translation.",
+    "location": "New York City, ShenZhen",
+    "description": "Explore the world of codes and language translation.",
+    "image": "img/screenshot.png",
+    
+    "intro": {
+        "name": "Start",
+        "text": "This work expresses the process of transmission errors by visualizing language translation errors or missing meaning data. Through the process of integrating data transmission/language translation, I record the changes in my thoughts when switching between two languages every day.",
+        "process": "one",
+        "area": "top",
+        "image": "img/intro.png",
+        "medium": {
+            "isDigital": true,
+            "isFinal": false,
+            "isWorking": false
+        }
+    },
+    
+    "inspirationDetails": {
+        "name": "Data thing",
+        "process": "two",
+        "text": "For this project, I downloaded my school email data. This data contains so much content that the process of opening the file often crashes my computer. Then while browsing the data, I discovered that the data contained many lengthy error codes. I was thinking, why is this? Possible reasons: The way Google Mail sends data is incompatible with the way I open the data, causing code errors. The email data is too large, causing transmission errors.",
+        "shape": "Rectangular",
+        "size": "Medium",
+        "area": "center",
+        "chapterImage": "img/sketch.png",
+        "story": "Inspired by glitch art and translation errors"
+    },
+
+    "codeAndLanguage": {
+        "name": "Code and Translation",
+        "process": "three",
+        "text": "Language is a huge system, and so is data. I live in these two systems every day, and I interact with the language system and the data system. When I analyze data systems, my life experience reminds me of language systems: two languages translate into each other, and occasionally there are translation errors or missing meanings. This is similar to the Gmail codes I've collected: they have some lengthy error codes, possibly due to errors encountered during transmission. So I want to relate to them.",
+        "size": "Medium",
+        "area": "center",
+        "concept": {
+            "idea": "Coding as a form of translation",
+            "examples": ["HTML", "CSS", "JavaScript"]
+        }
+    },
+
+    "WorkingProgress": {
+        "name": "Introduce how it works",
+        "process": "four",
+        "text": "I used my own audio imagery as the shape of the final piece. I then filled the audio pattern shapes with text and split them into five keys. Whenever the mouse is moved over a button, the background image changes, with the image from left to right showing the change in translation.",
+        "shape": "PicShape",
+        "size": "Small",
+        "area": "bottom",
+        "images": [
+            "img/1.png",
+            "img/2.png",
+            "img/3.png",
+            "img/4.png"
+        ],
+        "completed": true,
+        "medium": {
+            "isDigital": true,
+            "isFinal": false,
+            "isWorking": true
+        }
+    },
+
+    "final": {
+        "name": "Final Presentation",
+        "process": "five",
+        "text": "This is the background change I mentioned in Working Progress. An email containing mutual translations into Chinese and English. In the middle process, I visualized my personal understanding of error code generation when studying the email error codes I collected. Eventually the translation was completed and the content of the email could be roughly understood, but it was wrong.",
+        "size": "Large",
+        "area": "left",
+        "images": [ 
+            "img/11.png",
+            "img/22.png",
+            "img/33.png",
+            "img/44.png",
+            "img/55.png"
+        ],
+        "completed": true,
+        "medium": {
+            "isDigital": true,
+            "isFinal": true,
+            "isWorking": true
+        }
+    },
+
+    "reflection": {
+        "name": "Conclusion",
+        "process": "six",
+        "text": "By making this project, I not only learned the production of glitch art and concrete poetry, but more importantly, I learned how to dissect (analyze) myself from this project. For example, think about how I exist in a data system/language system, and how I and the system shape each other. In the future I will continue to study these and learn more about how to tell stories through visual language.",
+        "size": "Large",
+        "image": "img/work.png",
+        "keyTakeaways": [
+            "Embrace glitches as part of the creative process",
+            "Errors can lead to innovation",
+            "Coding and language are closely intertwined"
+        ]
+    }
+}

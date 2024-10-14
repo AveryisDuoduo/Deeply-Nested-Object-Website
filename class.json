@@ -13,21 +13,19 @@
     "inspiration": "Error codes and connection between generating codes and translation.",
     "location": "New York City, ShenZhen",
     "description": "Explore the world of codes and language translation.",
-    "image": "img/screenshot.png",
-    
+    "image": "screenshot.png", 
     "intro": {
         "name": "Start",
         "text": "This work expresses the process of transmission errors by visualizing language translation errors or missing meaning data. Through the process of integrating data transmission/language translation, I record the changes in my thoughts when switching between two languages every day.",
         "process": "one",
         "area": "top",
-        "image": "img/intro.png",
+        "image": "intro.png",
         "medium": {
             "isDigital": true,
             "isFinal": false,
             "isWorking": false
         }
     },
-    
     "inspirationDetails": {
         "name": "Data thing",
         "process": "two",
@@ -35,10 +33,9 @@
         "shape": "Rectangular",
         "size": "Medium",
         "area": "center",
-        "chapterImage": "img/sketch.png",
+        "chapterImage": "sketch.png",
         "story": "Inspired by glitch art and translation errors"
     },
-
     "codeAndLanguage": {
         "name": "Code and Translation",
         "process": "three",
@@ -50,7 +47,6 @@
             "examples": ["HTML", "CSS", "JavaScript"]
         }
     },
-
     "WorkingProgress": {
         "name": "Introduce how it works",
         "process": "four",
@@ -59,10 +55,10 @@
         "size": "Small",
         "area": "bottom",
         "images": [
-            "img/1.png",
-            "img/2.png",
-            "img/3.png",
-            "img/4.png"
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png"
         ],
         "completed": true,
         "medium": {
@@ -71,7 +67,6 @@
             "isWorking": true
         }
     },
-
     "final": {
         "name": "Final Presentation",
         "process": "five",
@@ -79,11 +74,11 @@
         "size": "Large",
         "area": "left",
         "images": [ 
-            "img/11.png",
-            "img/22.png",
-            "img/33.png",
-            "img/44.png",
-            "img/55.png"
+            "11.png",
+            "22.png",
+            "33.png",
+            "44.png",
+            "55.png"
         ],
         "completed": true,
         "medium": {
@@ -92,13 +87,12 @@
             "isWorking": true
         }
     },
-
     "reflection": {
         "name": "Conclusion",
         "process": "six",
         "text": "By making this project, I not only learned the production of glitch art and concrete poetry, but more importantly, I learned how to dissect (analyze) myself from this project. For example, think about how I exist in a data system/language system, and how I and the system shape each other. In the future I will continue to study these and learn more about how to tell stories through visual language.",
         "size": "Large",
-        "image": "img/work.png",
+        "image": "work.png",
         "keyTakeaways": [
             "Embrace glitches as part of the creative process",
             "Errors can lead to innovation",
